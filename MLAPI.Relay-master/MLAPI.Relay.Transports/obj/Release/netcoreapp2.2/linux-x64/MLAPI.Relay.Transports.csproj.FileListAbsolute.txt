@@ -1,0 +1,14 @@
+C:\Users\Lars\Desktop\MLAPI.Relay-master\MLAPI.Relay-master\MLAPI.Relay.Transports\bin\Release\netcoreapp2.2\linux-x64\libhostpolicy.so
+C:\Users\Lars\Desktop\MLAPI.Relay-master\MLAPI.Relay-master\MLAPI.Relay.Transports\bin\Release\netcoreapp2.2\linux-x64\libhostfxr.so
+C:\Users\Lars\Desktop\MLAPI.Relay-master\MLAPI.Relay-master\MLAPI.Relay.Transports\bin\Release\netcoreapp2.2\linux-x64\MLAPI.Relay.Transports.deps.json
+C:\Users\Lars\Desktop\MLAPI.Relay-master\MLAPI.Relay-master\MLAPI.Relay.Transports\bin\Release\netcoreapp2.2\linux-x64\MLAPI.Relay.Transports.dll
+C:\Users\Lars\Desktop\MLAPI.Relay-master\MLAPI.Relay-master\MLAPI.Relay.Transports\bin\Release\netcoreapp2.2\linux-x64\MLAPI.Relay.Transports.pdb
+C:\Users\Lars\Desktop\MLAPI.Relay-master\MLAPI.Relay-master\MLAPI.Relay.Transports\bin\Release\netcoreapp2.2\linux-x64\UnityEditor.dll
+C:\Users\Lars\Desktop\MLAPI.Relay-master\MLAPI.Relay-master\MLAPI.Relay.Transports\bin\Release\netcoreapp2.2\linux-x64\UnityEngine.dll
+C:\Users\Lars\Desktop\MLAPI.Relay-master\MLAPI.Relay-master\MLAPI.Relay.Transports\obj\Release\netcoreapp2.2\linux-x64\MLAPI.Relay.Transports.csprojAssemblyReference.cache
+C:\Users\Lars\Desktop\MLAPI.Relay-master\MLAPI.Relay-master\MLAPI.Relay.Transports\obj\Release\netcoreapp2.2\linux-x64\MLAPI.Relay.Transports.AssemblyInfoInputs.cache
+C:\Users\Lars\Desktop\MLAPI.Relay-master\MLAPI.Relay-master\MLAPI.Relay.Transports\obj\Release\netcoreapp2.2\linux-x64\MLAPI.Relay.Transports.AssemblyInfo.cs
+C:\Users\Lars\Desktop\MLAPI.Relay-master\MLAPI.Relay-master\MLAPI.Relay.Transports\obj\Release\netcoreapp2.2\linux-x64\MLAPI.Relay.Transports.csproj.CoreCompileInputs.cache
+C:\Users\Lars\Desktop\MLAPI.Relay-master\MLAPI.Relay-master\MLAPI.Relay.Transports\obj\Release\netcoreapp2.2\linux-x64\MLAPI.Relay.Transports.csproj.CopyComplete
+C:\Users\Lars\Desktop\MLAPI.Relay-master\MLAPI.Relay-master\MLAPI.Relay.Transports\obj\Release\netcoreapp2.2\linux-x64\MLAPI.Relay.Transports.dll
+C:\Users\Lars\Desktop\MLAPI.Relay-master\MLAPI.Relay-master\MLAPI.Relay.Transports\obj\Release\netcoreapp2.2\linux-x64\MLAPI.Relay.Transports.pdb

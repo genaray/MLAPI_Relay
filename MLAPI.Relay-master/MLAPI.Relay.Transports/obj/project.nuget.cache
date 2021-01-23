@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "mQL100KgEBgvK05qmyO33mogWztDNp2nf1GuG7lZkFBPe+5HKKYlHzaL+wIwgRth/3iRKCGVo8jHAk/lSP6liw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lars\\Desktop\\MLAPI.Relay-master\\MLAPI.Relay-master\\MLAPI.Relay.Transports\\MLAPI.Relay.Transports.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lars\\.nuget\\packages\\microsoft.netcore.app\\2.2.8\\microsoft.netcore.app.2.2.8.nupkg.sha512",
+    "C:\\Users\\Lars\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.8\\microsoft.netcore.dotnetapphost.2.2.8.nupkg.sha512",
+    "C:\\Users\\Lars\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.8\\microsoft.netcore.dotnethostpolicy.2.2.8.nupkg.sha512",
+    "C:\\Users\\Lars\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.8\\microsoft.netcore.dotnethostresolver.2.2.8.nupkg.sha512",
+    "C:\\Users\\Lars\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.4\\microsoft.netcore.platforms.2.2.4.nupkg.sha512",
+    "C:\\Users\\Lars\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\Lars\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Lars\\.nuget\\packages\\runtime.linux-x64.microsoft.netcore.app\\2.2.8\\runtime.linux-x64.microsoft.netcore.app.2.2.8.nupkg.sha512",
+    "C:\\Users\\Lars\\.nuget\\packages\\runtime.linux-x64.microsoft.netcore.dotnetapphost\\2.2.8\\runtime.linux-x64.microsoft.netcore.dotnetapphost.2.2.8.nupkg.sha512",
+    "C:\\Users\\Lars\\.nuget\\packages\\runtime.linux-x64.microsoft.netcore.dotnethostpolicy\\2.2.8\\runtime.linux-x64.microsoft.netcore.dotnethostpolicy.2.2.8.nupkg.sha512",
+    "C:\\Users\\Lars\\.nuget\\packages\\runtime.linux-x64.microsoft.netcore.dotnethostresolver\\2.2.8\\runtime.linux-x64.microsoft.netcore.dotnethostresolver.2.2.8.nupkg.sha512"
+  ],
+  "logs": []
+}
